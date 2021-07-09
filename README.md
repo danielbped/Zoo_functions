@@ -1,4 +1,4 @@
-# Projeto Zoo Functions
+# Projeto [Zoo Functions](https://github.com/tryber/sd-012-project-zoo-functions/pull/34)
   - Módulo 1: Fundamentos do Desenvolvimento Web
     - Bloco 8: Higher Order Functions do JavaScript ES6
 
